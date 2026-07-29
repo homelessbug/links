@@ -1,0 +1,15 @@
+{
+  "site": "homelessbug.xyz",
+  "email": "mailto:homelessbug@protonmail.com",
+  "socials": {
+    "discord": "https://discord.com/users/1422297140599984141",
+    "deviantart": "https://deviantart.com/homelessbug",
+    "instagram": "https://www.instagram.com/homelessbug.xyz",
+    "x": "https://x.com/homelessbug",
+    "bluesky": "https://bsky.app/profile/homelessbug.bsky.social"
+  },
+  "crypto": {
+    "ltc": "ltc1qecsdgt3z0mlg8m03mjgrsshjqdaez8fvwnyy3y",
+    "btc": "bc1q8e43m3l50w8ra9r5c5fs23jze3l5c763qj8fef"
+  }
+}
